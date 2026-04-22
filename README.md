@@ -138,10 +138,6 @@ This website is optimized for modern browsers:
 - [X (Twitter)](https://x.com/Rathankeshav_13)
 - [Email](mailto:rathankeshavbyree@gmail.com)
 
-## License
+## Live link
 
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-Built with passion and creativity by BYREE RATHAN KESHAV © 2024
+by clicking the link you will be directly to the task https://alfido-tech-task-1-coral.vercel.app/
