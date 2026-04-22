@@ -140,4 +140,5 @@ This website is optimized for modern browsers:
 
 ## Live link
 
-by clicking the link you will be directly to the task https://alfido-tech-task-1-coral.vercel.app/
+you will render to my portfolio webpage by clicking the given link
+https://alfido-tech-task-1-coral.vercel.app/
