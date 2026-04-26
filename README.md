@@ -142,3 +142,7 @@ This website is optimized for modern browsers:
 
 you will render to my portfolio webpage by clicking the given link
 https://alfido-tech-task-1-coral.vercel.app/
+
+## Documentation 
+
+https://docs.google.com/document/d/1nfkR-3n8zx5ZWhpjp11q5nmshgfGTR8bKJdsO5ugQc8/edit?usp=sharing
